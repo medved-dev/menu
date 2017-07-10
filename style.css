@@ -14,3 +14,9 @@ p {
 img {
     width: 200px;
 }
+
+table {
+    width: 100%;
+    border-spacing: 0px;
+
+}
